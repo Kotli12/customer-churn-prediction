@@ -6,7 +6,7 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-3.3+-2D9D2D?style=flat)
 ![Pandas](https://img.shields.io/badge/pandas-1.5+-150458?style=flat&logo=pandas&logoColor=white)
 
-> An end-to-end machine learning system that identifies subscribers at risk of cancelling — and translates every prediction into a specific business action with an estimated cost and revenue impact.
+> An end-to-end machine learning system that identifies subscribers at risk of cancelling and translates every prediction into a specific business action with an estimated cost and revenue impact.
 
 ---
 
